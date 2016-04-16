@@ -1,0 +1,23 @@
+1.  Jquery  Repaso 
+ 
+ Youtube mario rincon 
+ https://www.youtube.com/watch?v=QMgr_oTODBk
+
+ http://www.javascriptya.com.ar/jquery/
+ http://librojquery.com/
+
+
+ 2.  Repasar PHP sintaxis
+ http://www.rinconastur.com/php/
+
+ 3.  Practicar  NodeJS  y STYLUS
+
+ a. Instalar NodeJs "4"  y Git "2.8"
+ b. desde cmd instalan STYLUS:   npm install stylus -g
+ c. Crear un archivo   miestilo.styl
+ d. desde la ubicacion consola: stylus -c -w  miestilo.styl
+ http://stylus-lang.com/
+
+
+ 4.  En casa trabajar con GIT los comandos Básicos
+

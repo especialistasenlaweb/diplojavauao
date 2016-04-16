@@ -1,0 +1,39 @@
+
+
+.fondomodal{
+	background:rgba(0,0,0,0.5);
+	display:none; /*No se vea al inicio*/
+	left:0;
+	height:100%;
+	position:fixed; /*Siempre Fijo*/
+	width:100%;
+	top:0;
+	z-index:100;  /*Para los niveles*/
+}
+.mensajemodal{
+	background:rgba(255,255,255,0.8);
+	border-radius:2em;
+	box-shadow:0 0 0.5em rgba(255,255,255,0.5);
+	display:none; /*No se vea al inicio*/
+	left:25%;
+	padding:3em;
+	/*height:100%;*/
+	position:fixed; /*Siempre Fijo*/
+	width:50%;
+	top:25%;
+	z-index:101;  /*Para los niveles*/
+}
+.mensajemodal h2{
+	cursor:pointer;
+}
+.mitabla{
+	border:solid;
+	margin: 0 auto;
+	padding:3em;
+	width:40%;
+}
+
+.mitabla tr td{
+	border:solid;
+	padding:2em;
+}
